@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Imran Hossain</h1>
-<h3 align="center">A Fullstack Developer, Devops and AI automation learner</h3>
+<h3 align="center">A Fullstack Developer, Devops & AI Automation Learner</h3>
 
 - 🔭 I’m currently working on **software company**
 
