@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love to travel and see the lives & nature**
 
-<h3 align="left">Connect with me: [imranh.me](imranh.me)
+<h3 align="left">Connect with me: <a href="www.imranh.me">www.imranh.me</a>
 </h3>
 <p align="left">
 </p>
