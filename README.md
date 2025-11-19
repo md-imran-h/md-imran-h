@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **I love to travel and see the lives & nature**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [imranh.me](imranh.me)
+</h3>
 <p align="left">
 </p>
 
